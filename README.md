@@ -88,8 +88,11 @@ Conclusion: While Shor's Algorithm demonstrates theoretical potential, current q
 Future Directions:
 
 Advancing quantum error correction to enable larger-scale computations.
+
+
 Developing specialized quantum circuits for ECDLP.
 Investigating and implementing a hybrid quantum-classical approach for cryptographic challenges.
+
 Develop a  DeSci project funding stategy for longevity research.
 
 
