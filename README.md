@@ -89,12 +89,15 @@ Future Directions:
 
 Advancing quantum error correction to enable larger-scale computations.
 Developing specialized quantum circuits for ECDLP.
-Investigating hybrid quantum-classical approaches for cryptographic challenges.
+Investigating and implementing a hybrid quantum-classical approach for cryptographic challenges.
+Develop a  DeSci project funding stategy for longevity research.
 
 
 References
 Peter W. Shor, Algorithms for Quantum Computation: Discrete Logarithms and Factoring.
+
 Nakamoto, S. (2008). Bitcoin: A Peer-to-Peer Electronic Cash System.
+
 Quantum Computing Frameworks Documentation.
 Research papers on quantum algorithms for cryptography and Bitcoin security.
 
