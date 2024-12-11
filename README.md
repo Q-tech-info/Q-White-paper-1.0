@@ -93,7 +93,7 @@ Advancing quantum error correction to enable larger-scale computations.
 Developing specialized quantum circuits for ECDLP.
 Investigating and implementing a hybrid quantum-classical approach for cryptographic challenges.
 
-Develop a  DeSci project funding stategy for further research.
+Develop a  DeSci project funding stategy to provide a sustainable foundation for advancing  research.
 
 
 
