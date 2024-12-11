@@ -96,6 +96,8 @@ Investigating and implementing a hybrid quantum-classical approach for cryptogra
 Develop a  DeSci project funding stategy for longevity research.
 
 
+
+
 References
 Peter W. Shor, Algorithms for Quantum Computation: Discrete Logarithms and Factoring.
 
@@ -103,6 +105,8 @@ Nakamoto, S. (2008). Bitcoin: A Peer-to-Peer Electronic Cash System.
 
 Quantum Computing Frameworks Documentation.
 Research papers on quantum algorithms for cryptography and Bitcoin security.
+
+
 
 Appendix
 
